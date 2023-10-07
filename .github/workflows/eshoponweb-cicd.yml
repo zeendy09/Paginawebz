@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 944e90dc-4e43-4432-bf5f-48179f15942c
-  WEBAPP-NAME: az400-webapp-NAME
+  WEBAPP-NAME: paginapruebaz
 
 
 jobs:
